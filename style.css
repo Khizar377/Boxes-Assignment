@@ -136,6 +136,9 @@ p {
 }
 
 @media (max-width:390px) {
+    body {
+        height: 100vh;
+    }
     ul , p {
         font-size: 13px;
     }
